@@ -62,4 +62,3 @@ app/
   on a machine you own and trust, and keep `USER_ID` correct — the middleware is your only guard.
 -The `key_checker` module is a standalone utility; wire it into a handler if you want to verify keys from Telegram.
 
-## Default model groq = llama-3.3-70b-versatile. you can change it in modules\llm.py
