@@ -18,7 +18,7 @@ shut the machine down-all restricted to a single Telegram user (you).
 ## Getting started
 
 ```bash
-git clone https://github.com/<you>/eron.git
+git clone https://github.com/LogiKri/Eron.git
 cd eron
 python -m venv .venv
 source .venv/bin/activate   # .venv\Scripts\activate on Windows
