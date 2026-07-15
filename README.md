@@ -19,7 +19,7 @@ shut the machine down-all restricted to a single Telegram user (you).
 
 ```bash
 git clone https://github.com/LogiKri/Eron.git
-cd eron
+cd Eron
 python -m venv .venv
 source .venv/bin/activate   # .venv\Scripts\activate on Windows
 pip install -r requirements.txt
